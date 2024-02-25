@@ -3,8 +3,9 @@
 
 Group 1
 
-Members: Haotian Wu, LuQian Chen, Jianxiong Chu, Zhuochun Li
-Advisors: Yalini Senathirajah, Peter Brusilovsky
+**Members**: Haotian Wu, LuQian Chen, Jianxiong Chu, Zhuochun Li
+
+**Advisors**: Yalini Senathirajah, Peter Brusilovsky
 
 ## Introduction
 Throughout this project, our team collaborated under the guidance of Dr. Yalini Senathirajah, our client. The project's focus centered on creating a web-based application tailored to visualize data derived from smartwatches. The primary goal was to aid medical professionals, specifically personal doctors, in diagnosing respiratory disorders by utilizing real-time data obtained from smartwatches. 
