@@ -3,7 +3,7 @@
 
 Group 1
 
-**Members**: Haotian Wu, LuQian Chen, Jianxiong Chu, Zhuochun Li
+**Members**: [Haotian Wu](https://github.com/lambkinForever), LuQian Chen, [Jianxiong Chu](https://github.com/JianxiongChu), Zhuochun Li
 
 **Advisors**: Yalini Senathirajah, Peter Brusilovsky
 
